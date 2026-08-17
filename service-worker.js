@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "lotolens-";
-const CACHE_NAME = `${CACHE_PREFIX}v7`;
+const CACHE_NAME = `${CACHE_PREFIX}v8`;
 const APP_ASSETS = [
   "./",
   "./index.html",
